@@ -22,3 +22,8 @@ Praticar e consolidar conhecimentos em Java através da resolução de exercíci
 ---
 
 > 💡 Repositório público para fins de estudo e portfólio.
+## Tecnologias utilizadas
+- Java 8+
+- Git e GitHub
+- Programação estruturada
+- Programação orientada a objetos (POO)
