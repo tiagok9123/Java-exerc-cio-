@@ -1,4 +1,4 @@
-# Java-exerc-cio-
+# Java-exercicio
 Resolução de atividades em Java 
 # Java Exercícios
 
